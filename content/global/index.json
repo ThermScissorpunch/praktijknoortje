@@ -23,6 +23,10 @@
       {
         "href": "tarieven",
         "label": "Tarieven"
+      },
+      {
+        "href": "contact",
+        "label": "Contact"
       }
     ]
   },
