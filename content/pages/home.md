@@ -1,7 +1,8 @@
 ---
 title: Welkom bij Praktijk Noortje
 blocks:
-  - headline: Welkom bij Praktijk Noortje.
+  - tagline: ''
+    headline: Welkom bij Praktijk Noortje
     text: >
       Bij Praktijk Noortje sta jij centraal. Hypnotherapie biedt een effectieve
       en ontspannen manier om inzicht te krijgen in jezelf en blijvende
@@ -15,11 +16,7 @@ blocks:
       - label: Get Started
         type: button
         icon: true
-        link: /about
-      - label: Read Blog
-        type: link
-        icon: false
-        link: /posts
+        link: /aanbod
     image:
       src: /uploads/unsplash-75EFpyXu3Wg.jpg
       alt: >-
