@@ -1,7 +1,7 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Welkom bij Praktijk Noortje
+  - headline: Welkom bij Praktijk Noortje.
     text: >
       Bij Praktijk Noortje sta jij centraal. Hypnotherapie biedt een effectieve
       en ontspannen manier om inzicht te krijgen in jezelf en blijvende
