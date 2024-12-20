@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: Welkom bij Praktijk Noortje
 blocks:
   - headline: Welkom bij Praktijk Noortje.
     text: >
