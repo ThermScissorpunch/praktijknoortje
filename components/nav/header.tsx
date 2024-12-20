@@ -28,14 +28,9 @@ export default function Header() {
   const { globalSettings, theme } = useLayout();
   const header = globalSettings.header;
 
-  const headerColorCss =
-    header.color === "primary"
-      ? headerColor.primary[theme.color]
-      : headerColor.default;
-
   return (
     <div
-      className={`relative overflow-hidden bg-gradient-to-b ${headerColorCss}`}
+      className={`relative overflow-hidden bg-gradient-to-b bg-[#472B49] text-white`}
     >
       <Container size="custom" className="py-0 relative z-10 max-w-8xl">
         <div className="flex items-center justify-between gap-6">

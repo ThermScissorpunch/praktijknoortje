@@ -7,18 +7,18 @@ import Link from "next/link";
 import { useLayout } from "../layout/layout-context";
 
 const activeItemClasses = {
-  blue: "border-b-3 border-blue-200 text-blue-700 dark:text-blue-300 font-medium dark:border-blue-700",
-  teal: "border-b-3 border-teal-200 text-teal-700 dark:text-teal-300 font-medium dark:border-teal-700",
+  blue: "border-b-3 border-blue-200 text-blue-700 font-medium",
+  teal: "border-b-3 border-teal-200 text-teal-700 font-medium",
   green:
-    "border-b-3 border-green-200 text-green-700 dark:text-green-300 font-medium dark:border-green-700",
-  red: "border-b-3 border-red-300 text-red-700 dark:text-green-300 font-medium dark:border-red-700",
-  pink: "border-b-3 border-pink-200 text-pink-700 dark:text-pink-300 font-medium dark:border-pink-700",
+    "border-b-3 border-green-200 text-green-700 font-medium",
+  red: "border-b-3 border-red-300 text-red-700 font-medium",
+  pink: "border-b-3 border-pink-200 text-pink-700 font-medium",
   purple:
-    "border-b-3 border-purple-200 text-purple-700 dark:text-purple-300 font-medium dark:border-purple-700",
+    "border-b-3 text-white font-medium",
   orange:
-    "border-b-3 border-orange-200 text-orange-700 dark:text-orange-300 font-medium dark:border-orange-700",
+    "border-b-3 border-orange-200 text-orange-700 font-medium",
   yellow:
-    "border-b-3 border-yellow-300 text-yellow-700 dark:text-yellow-300 font-medium dark:border-yellow-600",
+    "border-b-3 border-yellow-300 text-yellow-700 font-medium",
 };
 
 const activeBackgroundClasses = {

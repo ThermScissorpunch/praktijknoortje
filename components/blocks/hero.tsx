@@ -17,7 +17,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
     green: "from-green-400 to-green-600",
     red: "from-red-400 to-red-600",
     pink: "from-pink-400 to-pink-600",
-    purple: "from-purple-400 to-purple-600",
+    purple: "text-purple-1000",
     orange: "from-orange-300 to-orange-600",
     yellow: "from-yellow-400 to-yellow-600",
   };
@@ -47,7 +47,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
                 className={`bg-clip-text text-transparent bg-gradient-to-r  ${
                   data.color === "primary"
                     ? `from-white to-gray-100`
-                    : headlineColorClasses["blue"]
+                    : headlineColorClasses["purple"]
                 }`}
               >
                 {data.headline}
@@ -65,7 +65,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
                       : `dark:prose-dark`
                   }`}
                 >
-                  <TinaMarkdown 
+                  <TinaMarkdown
                     content={data.text}
                     components={{
                       mermaid({ value }) {
@@ -99,7 +99,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
                 data.color === "primary" ? `prose-primary` : `dark:prose-dark`
               }`}
             >
-              <TinaMarkdown 
+              <TinaMarkdown
                 content={data.text2}
                 components={{
                   mermaid({ value }) {
