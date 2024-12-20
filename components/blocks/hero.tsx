@@ -44,7 +44,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
               className={`w-full relative mb-10 text-5xl font-extrabold tracking-normal leading-tight title-font`}
             >
               <span
-                className={`bg-clip-text text-transparent bg-gradient-to-r  ${
+                className={`bg-clip-text ${
                   data.color === "primary"
                     ? `from-white to-gray-100`
                     : headlineColorClasses["purple"]
