@@ -1,5 +1,6 @@
 {
   "header": {
+    "logo": "/assets/img/logo.png",
     "icon": {
       "name": "Tina",
       "color": "orange",
@@ -17,7 +18,7 @@
         "label": "Aanbod"
       },
       {
-        "href": "Over-Mij",
+        "href": "over-mij",
         "label": "Over Mij"
       },
       {

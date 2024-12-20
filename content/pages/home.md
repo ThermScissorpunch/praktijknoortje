@@ -13,7 +13,7 @@ blocks:
       Ontdek de kracht van je onderbewustzijn en zet de eerste stap naar een
       vrijer en gelukkiger leven.
     actions:
-      - label: Get Started
+      - label: Bekijk mijn aanbod
         type: button
         icon: true
         link: /aanbod

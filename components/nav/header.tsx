@@ -2,10 +2,9 @@
 
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Container } from "../layout/container";
 import { cn } from "../../lib/utils";
-import { tinaField } from "tinacms/dist/react";
-import { Icon } from "../icon";
 import NavItems from "./nav-items";
 import { useLayout } from "../layout/layout-context";
 
@@ -24,18 +23,7 @@ export default function Header() {
               href="/"
               className="flex gap-1 items-center whitespace-nowrap tracking-[.002em]"
             >
-              <Icon
-                tinaField={tinaField(header, "icon")}
-                parentColor={header.color}
-                data={{
-                  name: header.icon.name,
-                  color: header.icon.color,
-                  style: header.icon.style,
-                }}
-              />{" "}
-              <span data-tina-field={tinaField(header, "name")}>
-                {header.name}
-              </span>
+              <Image alt={''} src="https://assets.tina.io/4c56b08b-ff46-4470-b58a-44777f9310dd/logo.png" width={208} height={64} />
             </Link>
           </h4>
           <NavItems navs={header.nav} />
