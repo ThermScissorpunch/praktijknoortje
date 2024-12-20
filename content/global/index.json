@@ -19,6 +19,10 @@
       {
         "href": "over-mij",
         "label": "Over Mij"
+      },
+      {
+        "href": "tarieven",
+        "label": "Tarieven"
       }
     ]
   },
