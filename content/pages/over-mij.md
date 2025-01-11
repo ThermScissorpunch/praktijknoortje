@@ -2,7 +2,7 @@
 title: Over Mij
 blocks:
   - body: >
-      # Over Mij
+      # Over Mij..
 
 
       Welkom bij Praktijk Noortje! Mijn naam is Noortje, en ik ben gepassioneerd
