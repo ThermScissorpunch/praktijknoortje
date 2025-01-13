@@ -9,10 +9,11 @@ blocks:
 
 
       Ik heb jarenlange ervaring in het werken in de ambulante psychiatrie en
-      het volgen van diverse opleidingen. Gaandeweg ben ik steeds meer gaan
-      geloven in de kracht van het onderbewustzijn. In het onderbewustzijn
-      liggen de diepste gedachten, gevoelens, overtuigingen en gedragspatronen.
-      Het onderbewustzijn beinvloed onze gedachten en gedrag. Vaak zijn we ons
+      het volgen van diverse opleidingen. Door de vele opleidingen en ervaringen
+      op persoonlijk vlak en op mijn werk ben ik steeds meer gaan geloven in de
+      kracht van het onderbewustzijn. In het onderbewustzijn liggen de diepste
+      gedachten, gevoelens, overtuigingen en gedragspatronen. Het
+      onderbewustzijn beinvloed onze gedachten en gedrag. Vaak zijn we ons
       bewust van klachten, gedragspatronen en mogelijke oorzaken daarvan maar
       lukt het niet om deze te veranderen of aan te passen. 
 
