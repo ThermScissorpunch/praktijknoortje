@@ -5,7 +5,7 @@ blocks:
       # Over Mij
 
 
-      Mijn naam is Noortje.
+      Mijn naam is Noortje. 
 
 
       Ik heb jarenlange ervaring in het werken in de ambulante psychiatrie en
