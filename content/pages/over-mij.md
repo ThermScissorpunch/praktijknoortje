@@ -5,12 +5,6 @@ blocks:
       # Over Mij
 
 
-      # Mijn naam is Noortje, en ik ben gepassioneerd hypnotherapeut met een
-      liefde voor persoonlijke groei en welzijn. Mijn missie is om jou te
-      begeleiden op jouw pad naar meer balans, inzicht en kracht, zodat je het
-      leven kunt leiden dat écht bij je past.
-
-
       Mijn naam is Noortje.
 
 
@@ -34,6 +28,12 @@ blocks:
 
       Het is mijn missie om samen met jou tot een passend aanbod te komen tot
       meer inzicht en balans....
+
+
+      *Mijn naam is Noortje, en ik ben gepassioneerd hypnotherapeut met een
+      liefde voor persoonlijke groei en welzijn. Mijn missie is om jou te
+      begeleiden op jouw pad naar meer balans, inzicht en kracht, zodat je het
+      leven kunt leiden dat écht bij je past.*
 
 
       *Na jarenlange ervaring in het werken met mensen en het volgen van diverse
