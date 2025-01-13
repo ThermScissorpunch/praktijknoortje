@@ -32,7 +32,8 @@ blocks:
       niet centraal. 
 
 
-      Het is mijn missie om samen met jou tot een passend aanbod te komen .... 
+      Het is mijn missie om samen met jou tot een passend aanbod te komen tot
+      meer inzicht en balans....
 
 
       *Na jarenlange ervaring in het werken met mensen en het volgen van diverse
