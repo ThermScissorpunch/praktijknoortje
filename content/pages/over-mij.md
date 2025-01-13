@@ -5,10 +5,23 @@ blocks:
       # Over Mij
 
 
-      Welkom bij Praktijk Noortje! Mijn naam is Noortje, en ik ben gepassioneerd
-      hypnotherapeut met een liefde voor persoonlijke groei en welzijn. Mijn
-      missie is om jou te begeleiden op jouw pad naar meer balans, inzicht en
-      kracht, zodat je het leven kunt leiden dat écht bij je past.
+      # Mij\\\\\ijn naam is Noortje, en ik ben gepassioneerd hypnotherapeut met
+      een liefde voor persoonlijke groei en welzijn. Mijn missie is om jou te
+      begeleiden op jouw pad naar meer balans, inzicht en kracht, zodat je het
+      leven kunt leiden dat écht bij je past.
+
+
+      Mijn naam is Noortje. 
+
+
+      Na jarenlange ervaring in het werken in de ambulante psychiatrie en het
+      volgen van diverse opleidingen ben ik naast mijn werk  als Sociaal
+      Psyhiatrisch Verpleegkundige bij BuurtzorgT ook gestart met Praktijk
+      Noortje.  
+
+
+      Ik pas Hyponotherapie, emdr en magnetiseren zowel toe tijdens mijn werk
+      bij BuurtzorgT als binnen Praktijk Noortje. 
 
 
       Na jarenlange ervaring in het werken met mensen en het volgen van diverse
