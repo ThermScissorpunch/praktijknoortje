@@ -10,10 +10,10 @@ blocks:
       geven over de mogelijkheden. 
 
 
-      Hypnotherapie biedt een effectieve en ontspannen manier om inzicht te
+      *Hypnotherapie biedt een effectieve en ontspannen manier om inzicht te
       krijgen in jezelf en blijvende veranderingen te realiseren. Of je nu
       worstelt met stress, angsten, onzekerheid of andere uitdagingen, samen
-      werken we aan jouw welzijn en persoonlijke groei.
+      werken we aan jouw welzijn en persoonlijke groei.*
     text2: >
       Ontdek de kracht van je onderbewustzijn en zet de eerste stap naar een
       vrijer en gelukkiger leven.
