@@ -10,7 +10,7 @@ blocks:
 
       Magnetiseren (max. 60 min.)           50 euro
 
-      Kennismakingsgesprek en advies (max. 60 min.)  30,00
+      Kennismakingsgesprek en advies (max. 60 min.)  30 euro
     color: default
     _template: content
 ---
