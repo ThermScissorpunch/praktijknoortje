@@ -32,6 +32,9 @@ blocks:
       niet centraal. 
 
 
+      Het is mijn missie om samen met jou tot een passend aanbod te komen .... 
+
+
       *Na jarenlange ervaring in het werken met mensen en het volgen van diverse
       opleidingen, ontdekte ik de bijzondere kracht van hypnotherapie. Het is
       een methode die niet alleen effectief is, maar ook op een natuurlijke en
