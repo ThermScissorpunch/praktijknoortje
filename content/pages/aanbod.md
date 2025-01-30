@@ -5,9 +5,12 @@ blocks:
       Hypnotherapie
 
 
-      Bij Praktijk Noortje bied ik een breed scala aan
-      hypnotherapiebehandelingen afgestemd op jouw behoeften en doelen. Samen
-      ontdekken we de beste aanpak v
+      Algemeen stuk
+
+
+      * Regressie
+
+      *
 
 
       ## Aanbod Hypnotherapie
