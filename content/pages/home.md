@@ -5,9 +5,9 @@ blocks:
     headline: Welkom bij Praktijk Noortje
     text: >
       Bij Praktijk Noortje bied ik een breed scala aan behandelingen afgestemd
-      op jouw klachten en doelen. Ik werk trans diagnostisch en kijk naar jouw
-      wensen en doelen. Tijdens een kennismakingsgesprek zal ik advies en uitleg
-      geven over de mogelijkheden. 
+      op jouw wensen en doelen. Ik werk trans diagnostisch en kijk naar wat voor
+      jou ondersteunend kan zijn. Tijdens een kennismakingsgesprek zal ik advies
+      en uitleg geven over de mogelijkheden.
 
 
       *Hypnotherapie biedt een effectieve en ontspannen manier om inzicht te
