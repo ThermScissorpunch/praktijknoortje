@@ -5,12 +5,23 @@ blocks:
       Hypnotherapie
 
 
-      Algemeen stuk
+      *Algemeen stuk*
 
 
-      * Regressie
+      * Soulkey
 
-      *
+
+      Soulkey ook wel zielenreis genoemd en is een moderne doorontwikkelde vorm
+      van hypnotherapie gericht op regressie en reincarnatie. Bij deze vorm van
+      therapie kom je dichter bij je eigen ziel en bewustzijn. Vragen als; Wie
+      ben ik? Waarom ben ik hier op aarde? Wat is het doel van het leven? Waarom
+      lukt het me niet om bepaald gedrag te veranderen? De antwoorden op deze
+      vragen liggen in jezelf maar het lukt niet om deze in bewustzijn te
+      beantwoorden. Ons onderbewuste, onze ziel, heeft de antwoorden op deze
+      vragen. 
+
+
+      * Hypotic heaven
 
 
       ## Aanbod Hypnotherapie
