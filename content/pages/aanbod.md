@@ -2,10 +2,19 @@
 title: Aanbod
 blocks:
   - body: >
-      Hypnotherapie
+      **Hypnotherapie**
 
 
-      *Algemeen stuk*
+      Bij hypnotherapie maak je contact met je onderbewuste. Je komt in een vorm
+      van trance. Trance is een staat van bewustzijn waarin ons bewustzijn
+      verschuift van alledaagse realiteit naar een meer gefocuste / innerlijke
+      staat. Het is een natuurlijke staat van hyperfocus die we kennen in de
+      vorm van dagdromen of intens opgaan in een film of boek. 
+
+
+      Ons onderbewustzijn is een verzameling van herinneringen, overtuigingen,
+      gewoontes en emoties die diep opgeslagen zijn in een deel van ons brein
+      waar we in dagelijkse bewustzijn niet bij kunnen. 
 
 
       * Soulkey
@@ -18,56 +27,38 @@ blocks:
       lukt het me niet om bepaald gedrag te veranderen? De antwoorden op deze
       vragen liggen in jezelf maar het lukt niet om deze in bewustzijn te
       beantwoorden. Ons onderbewuste, onze ziel, heeft de antwoorden op deze
-      vragen. 
+      vragen. Je ontdekt waar, wanneer en waardoor een probleem is ontstaan, hoe
+      dit doorwerkt in je huidige leven en wat je kan doen om het te
+      veranderen. 
 
 
       * Hypotic heaven
 
 
-      ## Aanbod Hypnotherapie
+      **EMDR**
 
 
-      Bij Praktijk Noortje bieden we een breed scala aan
-      hypnotherapiebehandelingen die zijn afgestemd op jouw unieke behoeften en
-      doelen. Samen ontdekken we de beste aanpak om jou te helpen bij jouw
-      persoonlijke uitdagingen en groei.
+      EMDR is een vorm van therapie die wordt toegepast om trauma's te
+      verwerken. De afkorting staat voor Eye Movement Desensitization and
+      Regrocessing. Bij een EMDR behandeling wordt de emotionele lading die
+      gekoppeld is aan een heftige herinnering verminderd. 
 
 
-      Onze specialisaties:
+      Veel mensen maken tijdens hun leven gebeurtenissen mee die veel impact
+      hebben en tijd kosten om ze te verwerken. Soms lukt het om deze
+      gebeurtenis zelf een plekje te geven. Soms blijf je last houden van deze
+      gebeurtenis en heeft het bijvoorbeeld invloed op je dagelijks leven in de
+      vorm van stress, slecht slapen, schaamte, angst-paniek klachten of
+      onverklaarbare lichamelijke klachten. Door het toepassen van EMDR kunnen
+      deze klachten weg gaan of verminderen. 
 
 
-      * Stress en Burn-out: Vind rust en herstel door effectieve technieken die
-      je helpen stress te verminderen en balans te hervinden.
-
-      * Angst en Fobieën: Overwin beperkende angsten en herwin je vrijheid met
-      krachtige hypnotherapeutische sessies.
-
-      * Onzekerheid en Zelfvertrouwen: Bouw aan een positieve mindset en
-      versterk je zelfvertrouwen.
-
-      * Slaapproblemen: Verbeter je nachtrust en ontdek hoe je lichaam en geest
-      kunnen herstellen.
-
-      * Trauma en Verliesverwerking: Doorbreek blokkades en vind emotionele
-      heling in een veilige omgeving.
-
-      * Gewichtsbeheersing en Stoppen met Roken: Werk aan een gezonder leven met
-      hypnotherapie als ondersteunend hulpmiddel.
+      Magnetiseren
 
 
-      Elk traject begint met een vrijblijvend kennismakingsgesprek. Hierin
-      bespreken we jouw wensen en doelen, zodat we samen een persoonlijk
-      behandelplan kunnen opstellen.
-
-
-      Bij Praktijk Noortje geloven we in een holistische aanpak waarbij jij als
-      geheel mens centraal staat. Of je nu op zoek bent naar inzicht,
-      verandering of rust, we staan klaar om je te begeleiden op jouw weg naar
-      een evenwichtiger en gelukkiger leven.
-
-
-      Meer weten? Neem contact op voor meer informatie of om een afspraak te
-      maken. Samen maken we de eerste stap naar een betere versie van jezelf!
+      Magnetiseren is werken met energie. Het gaat om opruimen van blokkades.
+      Bij magnetiseren richt ik me op onverklaarbare klachten. Deze klachten
+      komen vaak voort uit blokkades 
     color: default
     _template: content
 ---
