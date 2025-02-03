@@ -13,6 +13,8 @@ blocks:
       [info@praktijknoortje.nl](mailto:info@praktijknoortje.nl)
 
       tel: 0611353776
+
+      ![](/uploads/IMG_1464.jpg)
     color: default
     _template: content
 ---
