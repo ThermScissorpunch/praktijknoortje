@@ -8,12 +8,6 @@ blocks:
       op jouw wensen en doelen. Ik werk trans diagnostisch en kijk naar wat voor
       jou ondersteunend kan zijn. Tijdens een kennismakingsgesprek zal ik advies
       en uitleg geven over de mogelijkheden.
-
-
-      *Hypnotherapie biedt een effectieve en ontspannen manier om inzicht te
-      krijgen in jezelf en blijvende veranderingen te realiseren. Of je nu
-      worstelt met stress, angsten, onzekerheid of andere uitdagingen, samen
-      werken we aan jouw welzijn en persoonlijke groei.*
     text2: >
       Ontdek de kracht van je onderbewustzijn en zet de eerste stap naar een
       vrijer en gelukkiger leven.
@@ -23,7 +17,7 @@ blocks:
         icon: true
         link: /aanbod
     image:
-      src: /uploads/unsplash-75EFpyXu3Wg.jpg
+      src: ''
       alt: >-
         Photo of palm trees at sunset by Adam Birkett -
         unsplash.com/photos/75EFpyXu3Wg
