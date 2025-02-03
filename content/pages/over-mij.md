@@ -24,11 +24,11 @@ blocks:
       pas ik deze behandelingen toe. Het verschil is dat ik in de psychiatrie
       werkzaam ben in een multidisciplinair behandelteam waar gewerkt wordt op
       basis van diagnostiek en een behandelplan. Binnen praktijk Noortje werk ik
-      alleen en is staat diagnose niet centraal.
+      alleen en is staat diagnostiek niet centraal.
 
 
       Het is mijn missie om samen te kijken naar een passende behandeling en te
-      komen tot meer inzicht in balans in jouw leven.  
+      komen tot meer inzicht in balans in jouw leven.
 
 
       *Mijn naam is Noortje, en ik ben gepassioneerd hypnotherapeut met een
