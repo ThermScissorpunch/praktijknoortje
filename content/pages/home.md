@@ -17,7 +17,7 @@ blocks:
         icon: true
         link: /aanbod
     image:
-      src: ''
+      src: /uploads/IMG_1581.jpg
       alt: >-
         Photo of palm trees at sunset by Adam Birkett -
         unsplash.com/photos/75EFpyXu3Wg
