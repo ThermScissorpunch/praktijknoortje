@@ -5,30 +5,30 @@ blocks:
       # Over Mij
 
 
-      Mijn naam is Noortje. 
+      Mijn naam is Noortje.
 
 
       Ik heb jarenlange ervaring in het werken in de ambulante psychiatrie en
-      het volgen van diverse opleidingen. Door de vele opleidingen en ervaringen
+      het volgen van diverse opleidingen. Door de vele opleidingen, ervaringen
       op persoonlijk vlak en op mijn werk ben ik steeds meer gaan geloven in de
       kracht van het onderbewustzijn. In het onderbewustzijn liggen de diepste
       gedachten, gevoelens, overtuigingen en gedragspatronen. Het
       onderbewustzijn beinvloed onze gedachten en gedrag. Vaak zijn we ons
       bewust van klachten, gedragspatronen en mogelijke oorzaken daarvan maar
-      lukt het niet om deze te veranderen of aan te passen. 
+      lukt het niet om deze te veranderen of aan te passen.
 
 
-      Naast mijn werkzaamheden binnen Praktijk Noortje ben ik werkzaam in de
-      ambulante psychiatrie als Sociaal Psyhiatrisch Verpleegkundige. Binnen
-      beide werkplekken pas ik emdr, hypnotherapie en magnetiseren toe. Het
-      verschil is dat ik in de psychiatrie werkzaam ben in een multidisciplinair
-      behandelteam waar gewerkt wordt op basis van diagnostiek en een
-      behandelplan. Binnen praktijk Noortje werk ik alleen en is staat diagnose
-      niet centraal. 
+      Praktijk Noortje biedt hypnotherapie, emdr en magnetiseren. Naast mijn
+      werkzaamheden binnen Praktijk Noortje ben ik werkzaam in de ambulante
+      psychiatrie als Sociaal Psyhiatrisch Verpleegkundige. Op beide werkplekken
+      pas ik deze behandelingen toe. Het verschil is dat ik in de psychiatrie
+      werkzaam ben in een multidisciplinair behandelteam waar gewerkt wordt op
+      basis van diagnostiek en een behandelplan. Binnen praktijk Noortje werk ik
+      alleen en is staat diagnose niet centraal.
 
 
-      Het is mijn missie om samen met jou tot een passend aanbod te komen tot
-      meer inzicht en balans....
+      Het is mijn missie om samen te kijken naar een passende behandeling en te
+      komen tot meer inzicht in balans in jouw leven.  
 
 
       *Mijn naam is Noortje, en ik ben gepassioneerd hypnotherapeut met een
