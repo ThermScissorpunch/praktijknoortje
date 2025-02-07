@@ -5,12 +5,14 @@ blocks:
     headline: Welkom bij Praktijk Noortje
     text: >
       Ben je op zoek naar meer emotionele balans, meer ontspanning of wil je
-      blokkades of gedragspatronen doorbreken? 
+      blokkades of gedragspatronen doorbreken?
 
 
       Bij **Praktijk Noortje** bied ik een breed scala aan behandelingen
       afgestemd op jouw wensen en doelen in de vorm van hypnotherapie, EMDR en
-      magnetiseren. 
+      magnetiseren. (Mijn focus ligt op het onderbewuste van het brein en
+      energiestromen in ons lichaam. Trauma's en ervarigen worden opgeslagen in
+      ons onderbewuste brein en kunnen blokkades in het energieveld geven).
 
 
       Tijdens een kennismakingsgesprek zal ik advies en uitleg geven over de
