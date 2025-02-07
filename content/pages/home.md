@@ -4,10 +4,17 @@ blocks:
   - tagline: ''
     headline: Welkom bij Praktijk Noortje
     text: >
-      Bij Praktijk Noortje bied ik een breed scala aan behandelingen afgestemd
-      op jouw wensen en doelen. Ik werk trans diagnostisch en kijk naar wat voor
-      jou ondersteunend kan zijn. Tijdens een kennismakingsgesprek zal ik advies
-      en uitleg geven over de mogelijkheden.
+      Ben je op zoek naar meer emotionele balans, meer ontspanning of wil je
+      blokkades of gedragspatronen doorbreken? 
+
+
+      Bij **Praktijk Noortje** bied ik een breed scala aan behandelingen
+      afgestemd op jouw wensen en doelen in de vorm van hypnotherapie, EMDR en
+      magnetiseren. 
+
+
+      Tijdens een kennismakingsgesprek zal ik advies en uitleg geven over de
+      mogelijkheden.
     text2: >
       Ontdek de kracht van je onderbewustzijn en zet de eerste stap naar een
       vrijer en gelukkiger leven.
