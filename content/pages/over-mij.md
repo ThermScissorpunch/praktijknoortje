@@ -8,9 +8,9 @@ blocks:
       Mijn naam is Noortje.
 
 
-      Ik heb jarenlange ervaring in het werken in de ambulante psychiatrie en
-      het volgen van diverse opleidingen. Door de vele opleidingen, ervaringen
-      op persoonlijk vlak en op mijn werk ben ik steeds meer gaan geloven in de
+      Ik heb jarenlange ervaring met werken in de ambulante psychiatrie en het
+      volgen van diverse opleidingen. Door de vele opleidingen, ervaringen op
+      persoonlijk vlak en op mijn werk ben ik steeds meer gaan geloven in de
       kracht van het onderbewustzijn. In het onderbewustzijn liggen de diepste
       gedachten, gevoelens, overtuigingen en gedragspatronen. Het
       onderbewustzijn beinvloed onze gedachten en gedrag. Vaak zijn we ons
