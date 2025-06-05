@@ -14,14 +14,12 @@ blocks:
 
       Ons onderbewustzijn is een verzameling van herinneringen, overtuigingen,
       gewoontes en emoties die diep opgeslagen zijn in een deel van ons brein
-      waar we in dagelijkse bewustzijn niet bij kunnen.
+      waar we in dagelijkse bewustzijn niet bij kunnen. De methode waar ik het
+      meest mee werk is Soulkey.
 
 
-      * Soulkey
-
-
-      Soulkey ook wel zielenreis genoemd en is een moderne doorontwikkelde vorm
-      van hypnotherapie gericht op regressie en reincarnatie. Bij deze vorm van
+      Soulkey, ook wel zielenreis genoemd en is een moderne doorontwikkelde vorm
+      van hypnotherapie gericht op regressie en reïncarnatie. Bij deze vorm van
       therapie kom je dichter bij je eigen ziel en bewustzijn. Vragen als; Wie
       ben ik? Waarom ben ik hier op aarde? Wat is het doel van het leven? Waarom
       lukt het me niet om bepaald gedrag te veranderen? De antwoorden op deze
@@ -29,6 +27,10 @@ blocks:
       beantwoorden. Ons onderbewuste, onze ziel, heeft de antwoorden op deze
       vragen. Je ontdekt waar, wanneer en waardoor een probleem is ontstaan, hoe
       dit doorwerkt in je huidige leven en wat je kan doen om het te veranderen.
+
+
+      Hypnotherapie kan ook ingezet worden bij chronische aandoeningen,
+      oncologische patiënten of aanhoudende pijnklachten.  
 
 
       * Hypotic heaven
@@ -50,18 +52,6 @@ blocks:
       vorm van stress, slecht slapen, schaamte, angst-paniek klachten of
       onverklaarbare lichamelijke klachten. Door het toepassen van EMDR kunnen
       deze klachten weg gaan of verminderen.
-
-
-      **Magnetiseren**
-
-
-      Bij lichamelijke onverklaarbare klachten kan de energiebalans in ons
-      systeem verstoord zijn als gevolg van blokkades. Bij magnetiseren werk ik
-      met mijn handen en spoor ik deze blokkades op. Er is geen sprake van
-      aanraking, het magnetiseren pas ik toe door de energie te voelen om uw
-      lichaam heen (20 tot 50 cm. om het lichaam). In een paar sessies is het
-      mogelijk om blokkades op te heffen zodat energie weer vrij kan stromen en
-      er meer ruimte ontstaat voor ontspanning, rust en heling.  
     color: default
     _template: content
 ---
