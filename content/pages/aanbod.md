@@ -13,9 +13,13 @@ blocks:
 
 
       Ons onderbewustzijn is een verzameling van herinneringen, overtuigingen,
-      gewoontes en emoties die diep opgeslagen zijn in een deel van ons brein
-      waar we in dagelijkse bewustzijn niet bij kunnen. De methode waar ik het
-      meest mee werk is Soulkey.
+      gewoontes en emoties die een grote rol spelen bij hoe we ons voelen, ons
+      voordoen, hoe we reageren op situaties en hoe we pijn en stress ervaren.
+      Dit alles ligt diep opgeslagen in ons brein en kunnen we met ons bewust
+      verstand niet bij, althans niets aan veranderen ...
+
+
+      * Soulkey
 
 
       Soulkey, ook wel zielenreis genoemd en is een moderne doorontwikkelde vorm
@@ -25,15 +29,41 @@ blocks:
       lukt het me niet om bepaald gedrag te veranderen? De antwoorden op deze
       vragen liggen in jezelf maar het lukt niet om deze in bewustzijn te
       beantwoorden. Ons onderbewuste, onze ziel, heeft de antwoorden op deze
-      vragen. Je ontdekt waar, wanneer en waardoor een probleem is ontstaan, hoe
-      dit doorwerkt in je huidige leven en wat je kan doen om het te veranderen.
+      vragen. Je ontdekt waar, wanneer en waardoor een probleem is ontstaan,
+      (dat kan zijn in een vorig leven reïncarnatie of een belangrijk moment in
+      dit leven *regressie*) hoe dit doorwerkt in je huidige leven en wat je kan
+      doen om het te veranderen. 
 
 
-      Hypnotherapie kan ook ingezet worden bij chronische aandoeningen,
-      oncologische patiënten of aanhoudende pijnklachten.  
+      Deze vorm van hypnotherapie richt zich op jouw ware essentie, het loslaten
+      van ballast uit het verleden en versterken van je verbinding met wie je
+      diep van binnen bent. 
 
 
-      * Hypotic heaven
+      * hypnotic heaven
+
+
+      Hypnotic heaven is een vorm van hypnotherapie als krachtige, natuurlijke
+      ondersteuning bij chronische pijn, langdurige ziektes en tijdens
+      oncologische behandelingen. De kern van deze methode ligt in het benutten
+      van de ongekende kracht van het brein. 
+
+
+      Het brein speelt een centrale rol in hoe we pijn, stress en herstel
+      ervaren. Via hypnotherapie wordt een diepe staat van ontspanning bereikt,
+      waarin het onderbewustzijn toegankelijker wordt. In deze toestand kan de
+      geest invloed uitoefenen op lichamelijke processen zoals pijnbeleving,
+      immuunreacties en stressregulatie. Bij chronische pijn helpt hypnose het
+      brein om pijnsignalen anders te interpreteren, waardoor de intensiteit
+      afneemt. Bij chronische ziekten biedt het ondersteuning in het omgaan met
+      symptomen, vermoeidheid en emotionele belasting. In de oncologie wordt
+      hypnose ingezet om angst te verminderen, bijwerkingen te verzachten en het
+      zelfherstellend vermogen van het lichaam te versterken. 
+
+
+      Deze vorm van hypnotherapie helpt je om regie te herwinnen, vertrouwen op
+      te bouwen en innerlijke kracht te activeren - allemaal via de helende
+      invloed van je eigen geest. 
 
 
       **EMDR**
