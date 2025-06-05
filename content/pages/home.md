@@ -8,11 +8,13 @@ blocks:
       blokkades of gedragspatronen doorbreken?
 
 
-      Bij **Praktijk Noortje** bied ik een breed scala aan behandelingen
-      afgestemd op jouw wensen en doelen in de vorm van hypnotherapie, EMDR en
-      magnetiseren. (Mijn focus ligt op het onderbewuste van het brein en
-      energiestromen in ons lichaam. Trauma's en ervarigen worden opgeslagen in
-      ons onderbewuste brein en kunnen blokkades in het energieveld geven).
+      **Praktijk Noortje** richt ik me op hypnotherapie en EMDR.  Mijn focus
+      ligt op het onderbewuste van het brein. Trauma's en ervarigen worden
+      opgeslagen in ons onderbewuste brein, daar komen gedragspatronen uit
+      voort. Deze gedragspatronen zijn kunnen helpend zijn maar op een later
+      moment in ons leven belastend of zelfs schadelijk zijn. Bij hypnotherapie
+      is het mogelijk om inzicht te krijgen in de oorsprong van gedrag en kan
+      gedrag doorbroken worden. 
 
 
       Tijdens een kennismakingsgesprek zal ik advies en uitleg geven over de
