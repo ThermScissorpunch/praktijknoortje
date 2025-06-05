@@ -5,9 +5,7 @@ blocks:
       # Over Mij
 
 
-      Mijn naam is Noortje en woon samen met mijn man en 2 dochters in Boekel. 
-
-
+      Mijn naam is Noortje en woon samen met mijn man en 2 dochters in Boekel.
       Ik heb jarenlange ervaring met werken in de ambulante psychiatrie
       (specialistische GGZ) en het volgen van diverse opleidingen. Door de vele
       opleidingen, ervaringen op persoonlijk vlak en op mijn werk ben ik steeds
@@ -32,9 +30,9 @@ blocks:
 
       Praktijk Noortje is ontstaan vanuit mijn verlagen om deze vormen van
       therapie ook aan te bieden buiten de specialistische GGZ en zodoende
-      toegankelijk is voor iedereen. Het is mijn missie om samen te kijken naar
-      een passende behandeling en te komen tot meer inzicht in balans in jouw
-      leven. Of het nu gaat om verwerken van trauma's, het loslaten van
+      toegankelijk te maken voor iedereen. Het is mijn missie om samen te kijken
+      naar een passende behandeling en te komen tot meer inzicht en balans in
+      jouw leven. Of het nu gaat om verwerken van trauma's, het loslaten van
       belemmerende overtuigingen of het hervinden van balans. Ik werk met
       passie, aandacht en toewijding. In elke sessie streef in naar verbinding
       en veiligheid. Ik geloof in de kracht van het brein en het zelfherstellend
