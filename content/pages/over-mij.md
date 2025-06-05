@@ -5,16 +5,16 @@ blocks:
       # Over Mij
 
 
-      Mijn naam is Noortje en woon samen met mijn man en 2 dochters in Boekel.
-      Ik heb jarenlange ervaring met werken in de ambulante psychiatrie
-      (specialistische GGZ) en het volgen van diverse opleidingen. Door de vele
-      opleidingen, ervaringen op persoonlijk vlak en op mijn werk ben ik steeds
-      meer gaan geloven in de kracht van het onderbewustzijn. In het
-      onderbewustzijn liggen de diepste gedachten, gevoelens, overtuigingen en
-      gedragspatronen. Het onderbewustzijn beinvloed onze gedachten en gedrag.
-      Vaak zijn we ons bewust van klachten, gedragspatronen en mogelijke
+      Mijn naam is Noortje Aldenhuijsen en woon samen met mijn vriend en onze 2
+      dochters in Boekel. Ik heb jarenlange ervaring met werken in de ambulante
+      psychiatrie (specialistische GGZ) en het volgen van diverse opleidingen.
+      Door de vele opleidingen, ervaringen op persoonlijk vlak en op mijn werk
+      ben ik steeds meer gaan geloven in de kracht van het onderbewustzijn. *In
+      het onderbewustzijn liggen de diepste gedachten, gevoelens, overtuigingen
+      en gedragspatronen. Het onderbewustzijn beinvloed onze gedachten en
+      gedrag. Vaak zijn we ons bewust van klachten, gedragspatronen en mogelijke
       oorzaken daarvan maar lukt het niet om deze te veranderen of aan te
-      passen.
+      passen.*
 
 
       Ik ben opgeleid tot EMDR-therapeut en hypnotherapeut, twee krachtige
