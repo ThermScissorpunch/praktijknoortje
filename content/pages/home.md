@@ -8,14 +8,14 @@ blocks:
       of blokkades aanpakken of gedragspatronen doorbreken?
 
 
-      **Praktijk Noortje** richt ik me op hypnotherapie en EMDR.  Mijn focus
-      ligt op het onderbewuste van het brein. In het onderbewuste brein liggen
-      de diepste gedachten, gevoelens, overtuigingen en gedragspatronen en
-      worden trauma's opgeslagen. Het onderbewustzijn beïnvloed onze gedachten
-      en gedrag. Vaak zijn we ons bewust van klachten, gedragspatronen en
-      mogelijke oorzaken daarvan maar lukt het niet om deze te veranderen of aan
-      te passen. Bij hypnotherapie is het mogelijk om inzicht te krijgen in de
-      oorsprong van gedrag en kan gedrag doorbroken worden.
+      Binnen **Praktijk Noortje** richt ik me op hypnotherapie en EMDR.  Mijn
+      focus ligt op het onderbewuste van het brein. In het onderbewuste brein
+      liggen de diepste gedachten, gevoelens, overtuigingen en gedragspatronen
+      en worden trauma's opgeslagen. Het onderbewustzijn beïnvloed onze
+      gedachten en gedrag. Vaak zijn we ons bewust van klachten, gedragspatronen
+      en mogelijke oorzaken daarvan maar lukt het niet om deze te veranderen of
+      aan te passen. Bij hypnotherapie is het mogelijk om inzicht te krijgen in
+      de oorsprong van gedrag en kan gedrag doorbroken worden.
 
 
       Tijdens een kennismakingsgesprek zal ik advies en uitleg geven over de
