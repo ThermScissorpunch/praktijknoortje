@@ -4,8 +4,8 @@ blocks:
   - tagline: ''
     headline: Welkom bij Praktijk Noortje
     text: >
-      Ben je op zoek naar meer emotionele balans, meer ontspanning, wil je
-      trauma's of blokkades aanpakken of gedragspatronen doorbreken?
+      Ben je op zoek naar meer ontspanning, emotionele balans, wil je trauma's
+      of blokkades aanpakken of gedragspatronen doorbreken?
 
 
       **Praktijk Noortje** richt ik me op hypnotherapie en EMDR.  Mijn focus
