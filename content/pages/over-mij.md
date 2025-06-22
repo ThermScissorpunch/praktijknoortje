@@ -9,22 +9,22 @@ blocks:
       dochters in Boekel. Ik heb jarenlange ervaring met werken in de ambulante
       psychiatrie (specialistische GGZ) en het volgen van diverse opleidingen.
       Door de vele opleidingen, ervaringen op persoonlijk vlak en op mijn werk
-      ben ik steeds meer gaan geloven in de kracht van het onderbewustzijn. 
+      ben ik steeds meer gaan geloven in de kracht van het onderbewustzijn.
 
 
       Naast mijn opleidingen tot Sociaal Psychiatrisch Verpleegkundige ben ik
       ook opgeleid tot EMDR-therapeut en hypnotherapeut, twee krachtige methoden
       die worden ingezet om diepgewortelde trauma's, blokkades of hardnekkige
       patronen aan te pakken. Deze technieken pas ik toe in mijn eigen
-      \*Praktijk Noortje, \*maar ook in mijn werk binnen de ambulante
-      psychiatrie, waar ik werkzaam ben als Sociaal Psychiatrisch
-      Verpleegkundige. Binnen mijn werk in de ambulante psychiatrie ben ik
-      werkzaam in een multidisciplinair behandelteam waar gewerkt wordt op basis
-      van diagnostiek en behandelplan. Binnen praktijk Noortje werk ik alleen en
-      staat diagnostiek niet centraal.
+      \*Praktijk Noortje, maar ook in mijn werk in de ambulante psychiatrie,
+      waar ik werkzaam ben als Sociaal Psychiatrisch Verpleegkundige. Binnen
+      mijn werk in de ambulante psychiatrie ben ik werkzaam in een
+      multidisciplinair behandelteam waar gewerkt wordt op basis van diagnostiek
+      en behandelplan. Binnen praktijk Noortje werk ik alleen en staat
+      diagnostiek niet centraal.
 
 
-      Praktijk Noortje is ontstaan vanuit mijn verlagen om deze vormen van
+      Praktijk Noortje is ontstaan vanuit mijn verlangen om deze vormen van
       therapie ook aan te bieden buiten de specialistische GGZ en zodoende
       toegankelijk te maken voor iedereen. Het is mijn missie om samen te kijken
       naar een passende behandeling en te komen tot meer inzicht en balans in
