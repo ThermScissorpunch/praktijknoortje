@@ -29,15 +29,15 @@ blocks:
       lukt het me niet om bepaald gedrag te veranderen? De antwoorden op deze
       vragen liggen in jezelf maar het lukt niet om deze in bewustzijn te
       beantwoorden. Ons onderbewuste, onze ziel, heeft de antwoorden op deze
-      vragen. Je ontdekt waar, wanneer en waardoor een probleem is ontstaan,
-      (dat kan zijn in een vorig leven reïncarnatie of een belangrijk moment in
-      dit leven *regressie*) hoe dit doorwerkt in je huidige leven en wat je kan
-      doen om het te veranderen. 
+      vragen. Je ontdekt waar, wanneer en waardoor een probleem is ontstaan (dat
+      kan zijn in een vorig leven *reïncarnatie* of een belangrijk moment in dit
+      leven *regressie*), hoe dit doorwerkt in je huidige leven en wat je kan
+      doen om het te veranderen.
 
 
       Deze vorm van hypnotherapie richt zich op jouw ware essentie, het loslaten
       van ballast uit het verleden en versterken van je verbinding met wie je
-      diep van binnen bent. 
+      diep van binnen bent.
 
 
       * hypnotic heaven
@@ -46,7 +46,7 @@ blocks:
       Hypnotic heaven is een vorm van hypnotherapie als krachtige, natuurlijke
       ondersteuning bij chronische pijn, langdurige ziektes en tijdens
       oncologische behandelingen. De kern van deze methode ligt in het benutten
-      van de ongekende kracht van het brein. 
+      van de ongekende kracht van het brein.
 
 
       Het brein speelt een centrale rol in hoe we pijn, stress en herstel
@@ -58,12 +58,12 @@ blocks:
       afneemt. Bij chronische ziekten biedt het ondersteuning in het omgaan met
       symptomen, vermoeidheid en emotionele belasting. In de oncologie wordt
       hypnose ingezet om angst te verminderen, bijwerkingen te verzachten en het
-      zelfherstellend vermogen van het lichaam te versterken. 
+      zelfherstellend vermogen van het lichaam te versterken.
 
 
       Deze vorm van hypnotherapie helpt je om regie te herwinnen, vertrouwen op
       te bouwen en innerlijke kracht te activeren - allemaal via de helende
-      invloed van je eigen geest. 
+      invloed van je eigen geest.
 
 
       **EMDR**
