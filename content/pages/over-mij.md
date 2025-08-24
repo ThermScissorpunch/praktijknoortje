@@ -35,7 +35,8 @@ blocks:
       vermogen van de mens.
 
 
-      ![](</uploads/Noortje (11 van 1).jpg>)
+      ![](</uploads/Noortje (11 van 1).jpg>)![](</uploads/Noortje (8 van
+      1).jpg>)
     _template: content
 ---
 
