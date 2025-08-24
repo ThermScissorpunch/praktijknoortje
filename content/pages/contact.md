@@ -14,7 +14,9 @@ blocks:
 
       tel: 0611353776
 
-      ![](/uploads/IMG_1464.jpg)
+      ![](</uploads/Noortje (20 van 1).jpg>)
+
+      ![](</uploads/Noortje (19 van 1).jpg>)
     color: default
     _template: content
 ---
