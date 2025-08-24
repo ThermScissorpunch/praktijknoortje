@@ -33,6 +33,9 @@ blocks:
       passie, aandacht en toewijding. In elke sessie streef in naar verbinding
       en veiligheid. Ik geloof in de kracht van het brein en het zelfherstellend
       vermogen van de mens.
+
+
+      ![](</uploads/Noortje (11 van 1).jpg>)
     _template: content
 ---
 
