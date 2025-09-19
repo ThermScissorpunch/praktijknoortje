@@ -1,6 +1,5 @@
 {
   "header": {
-    "logo": "/assets/img/logo.png",
     "icon": {
       "name": "Tina",
       "color": "orange",
@@ -34,9 +33,9 @@
   "footer": {
     "color": "default",
     "social": {
-      "facebook": "/",
-      "twitter": "/",
-      "instagram": "/"
+      "facebook": "",
+      "twitter": "",
+      "instagram": ""
     }
   },
   "theme": {
