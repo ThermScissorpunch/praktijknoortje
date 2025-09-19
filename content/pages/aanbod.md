@@ -9,10 +9,8 @@ blocks:
       van trance. Trance is een staat van bewustzijn waarin ons bewustzijn
       verschuift van alledaagse realiteit naar een meer gefocuste / innerlijke
       staat. Het is een natuurlijke staat van hyperfocus die we kennen in de
-      vorm van dagdromen of intens opgaan in een film of boek.
-
-
-      Ons onderbewustzijn is een verzameling van herinneringen, overtuigingen,
+      vorm van dagdromen of intens opgaan in een film of boek. Ons
+      onderbewustzijn is een verzameling van herinneringen, overtuigingen,
       gewoontes en emoties die een grote rol spelen bij hoe we ons voelen, ons
       voordoen, hoe we reageren op situaties en hoe we pijn en stress ervaren.
       Dit alles ligt diep opgeslagen in ons brein en kunnen we met ons bewust
