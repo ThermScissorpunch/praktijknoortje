@@ -23,8 +23,12 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "Tina",
-  description: "Tina Cloud Starter",
+  title: "Praktijk Noortje",
+  description: "Ben je op zoek naar meer ontspanning, emotionele balans, wil je trauma's of blokkades aanpakken of gedragspatronen doorbreken?",
+  other: {
+    "trustpilot-one-time-domain-verification-id":
+      "bc192de7-bddb-4d18-9a44-cae6c0afd01a",
+  },
 };
 
 export default async function RootLayout({

@@ -23,12 +23,6 @@ blocks:
 
       | ![](</uploads/Noortje (20 van 1).jpg>) | ![](</uploads/Noortje (19 van
       1).jpg>) |
-
-      | -------------------------------------- |
-      -------------------------------------- |
-
-      |                                       
-      |                                        |
     color: default
     _template: content
 ---
