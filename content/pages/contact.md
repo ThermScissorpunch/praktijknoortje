@@ -20,10 +20,9 @@ blocks:
 
       tel: 0611353776
 
-      <div style="display: flex; gap: 24px; align-items: flex-start;">
-        <img src="/uploads/Noortje (20 van 1).jpg" alt="" style="max-width: 100%; height: auto;" />
-        <img src="/uploads/Noortje (19 van 1).jpg" alt="" style="max-width: 100%; height: auto;" />
-      </div>
+
+      | ![](</uploads/Noortje (20 van 1).jpg>) | ![](</uploads/Noortje (19 van
+      1).jpg>) |
     color: default
     _template: content
 ---
