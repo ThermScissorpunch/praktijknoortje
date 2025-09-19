@@ -17,7 +17,7 @@ export default function Footer() {
     green: "text-green-500 dark:text-green-400 hover:text-green-300",
     red: "text-red-500 dark:text-red-400 hover:text-red-300",
     pink: "text-pink-500 dark:text-pink-400 hover:text-pink-300",
-    purple: "text-purple-500 dark:text-purple-400 hover:text-purple-300",
+    purple: "text-[#472B49]",
     orange: "text-orange-500 dark:text-orange-400 hover:text-orange-300",
     yellow: "text-yellow-500 dark:text-yellow-400 hover:text-yellow-300",
     primary: "text-white opacity-80 hover:opacity-100",
@@ -51,7 +51,7 @@ export default function Footer() {
           <div className="flex gap-4">
             {footer.social && footer.social.facebook && (
               <a
-                className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
+                className="inline-block opacity-80 hover:opacity-100  transition ease-out duration-150"
                 href={footer.social.facebook}
                 target="_blank"
               >
