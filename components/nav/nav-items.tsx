@@ -36,8 +36,8 @@ export default function NavItems({ navs }: { navs: any }) {
   const currentPath = usePathname();
   const { theme } = useLayout();
   return (
-    <ul className="flex gap-6 sm:gap-8 lg:gap-10 tracking-[.002em] -mx-4">
-      {navs.map((item) => {
+    <ul className="flex gap-2 sm:gap-8 lg:gap-10 tracking-[.002em] -mx-4 overflow-x-auto overflow-y-hidden w-full">
+    {navs.map((item) => {
         return (
           <li
             key={item.href}
@@ -50,7 +50,7 @@ export default function NavItems({ navs }: { navs: any }) {
             <Link
               data-tina-field={tinaField(item, "label")}
               href={`/${item.href}`}
-              className={`relative select-none	text-base inline-block tracking-wide transition duration-150 ease-out hover:opacity-100 py-8 px-4`}
+              className={`relative select-none	text-base whitespace-nowrap inline-block tracking-wide transition duration-150 ease-out hover:opacity-100 py-8 px-4`}
             >
               {item.label}
               {currentPath === `/${item.href}` && (

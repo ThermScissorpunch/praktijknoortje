@@ -23,7 +23,7 @@ export default function Header() {
               href="/"
               className="flex gap-1 items-center whitespace-nowrap tracking-[.002em]"
             >
-              <Image alt={''} src="https://assets.tina.io/4c56b08b-ff46-4470-b58a-44777f9310dd/logo.png" width={208} height={64} />
+              <Image alt={''} src="https://assets.tina.io/4c56b08b-ff46-4470-b58a-44777f9310dd/logo.png" width={130} height={30} />
             </Link>
           </h4>
           <NavItems navs={header.nav} />
