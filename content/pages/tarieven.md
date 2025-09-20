@@ -2,10 +2,10 @@
 title: Tarieven
 blocks:
   - body: >
-      # Tarieven
+      ## Tarieven
 
 
-      Hypnotherapie 
+      Hypnotherapie
 
 
       * Soulkey                                             (max. 130
