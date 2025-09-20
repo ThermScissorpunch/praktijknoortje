@@ -1,8 +1,8 @@
 ---
 title: Welkom bij Praktijk Noortje
 blocks:
-  - tagline: 'Welkom bij Praktijk Noortje '
-    headline: ''
+  - tagline: ''
+    headline: Welkom bij Praktijk Noortje
     text: >
       Ben je op zoek naar meer ontspanning, emotionele balans, wil je trauma's
       of blokkades aanpakken of gedragspatronen doorbreken?
@@ -17,7 +17,7 @@ blocks:
       aan te passen. Bij hypnotherapie is het mogelijk om in contact te komen
       met dit onderbewuste deel van ons brein en inzicht te krijgen in de
       oorsprong van gedrag. Onder hypnose is het mogelijk om gedachten- en
-      gedragspatronen om te buigen of te doorbreken. 
+      gedragspatronen om te buigen of te doorbreken.
 
 
       Tijdens een kennismakingsgesprek kan ik u advies en uitleg geven over de
