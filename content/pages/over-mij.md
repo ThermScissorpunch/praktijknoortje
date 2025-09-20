@@ -2,7 +2,7 @@
 title: Over Mij
 blocks:
   - body: >
-      # Over Mij
+      ## Over Mij
 
 
       Mijn naam is Noortje Aldenhuijsen en woon samen met mijn vriend en onze 2
