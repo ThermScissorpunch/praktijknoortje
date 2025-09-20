@@ -2,7 +2,7 @@
 title: Aanbod
 blocks:
   - body: >
-      ## **Hypnotherapie**
+      ## Hypnotherapie
 
 
       Bij hypnotherapie maak je contact met je onderbewuste. Je komt in een vorm
