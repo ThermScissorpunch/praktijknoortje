@@ -64,6 +64,9 @@ blocks:
       invloed van je eigen geest.
 
 
+      ![](/uploads/IMG_1581.jpg)
+
+
       **EMDR**
 
 
