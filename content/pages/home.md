@@ -1,8 +1,8 @@
 ---
 title: Welkom bij Praktijk Noortje
 blocks:
-  - tagline: ''
-    headline: Welkom bij Praktijk Noortje
+  - tagline: 'Welkom bij Praktijk Noortje '
+    headline: ''
     text: >
       Ben je op zoek naar meer ontspanning, emotionele balans, wil je trauma's
       of blokkades aanpakken of gedragspatronen doorbreken?
