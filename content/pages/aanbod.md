@@ -42,7 +42,7 @@ blocks:
 
       * Stoppen met roken
 
-      De kern van hypnotherapie richt zich erop om hinderlijke patronen en automatismen in je onderbewustzijn te vervangen door stimulerende en productieve patronen. Grijp je steeds maar een sigaret wanneer je gespannen bent of wanneer je je wil concentreren? Dat is een gevolg van een ingesleten patroon in je onderbewustzijn. Onder hypnose is het mogelijk om deze hardnekkige denkwijze uit de onderbuste geest te halen en te vervangen door een ander, gezonder patroon. 
+      De kern van hypnotherapie richt zich erop om hinderlijke patronen en automatismen in je onderbewustzijn te vervangen door stimulerende en productieve patronen. Grijp je steeds maar een sigaret wanneer je gespannen bent of wanneer je je wil concentreren? Dat is een gevolg van een ingesleten patroon in je onderbewustzijn. Onder hypnose is het mogelijk om deze hardnekkige denkwijze uit de onderbuste geest te halen en te vervangen door een ander, gezonder patroon.
     color: default
     _template: content
 ---
