@@ -1,25 +1,21 @@
 ---
 title: Tarieven
 blocks:
-  - body: >
-      ## Tarieven
+  - body: |
+      ### Tarieven
 
+      EMDR                                              (+/- 60 min.)                          70 euro
 
       Hypnotherapie
 
+      * Soulkey                                             (+/-120 min.)                             140 euro
+      * Hypnotic Heaven                               (+/- 60 min.)                                70 euro
 
-      * Soulkey                                             (max. 130
-      min.)                       150 euro
+      <!---->
 
-      * Hypnotic Heaven                              (max. 60
-      min.)                          50 euro
+      * Stoppen met roken  (kennismaking en 2 tot 3 sessies hypnose)       300 euro
 
-
-      EMDR                                              (max. 90
-      min.)                    70 euro
-
-
-      Kennismakingsgesprek en advies   (max. 60 min.)                    30 euro
+      Kennismakingsgesprek en advies   (+/- 30 min.)                          35 euro
     color: default
     _template: content
 ---
