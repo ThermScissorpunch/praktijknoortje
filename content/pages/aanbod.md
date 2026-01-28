@@ -24,13 +24,15 @@ blocks:
 
       **EMDR**
 
-      EMDR is een effectieve therapie die wordt toegepast om trauma's te verwerken. De afkorting staat voor Eye Movement Desensitization and Regrocessing. Bij een EMDR behandeling wordt de emotionele lading die gekoppeld is aan een heftige herinnering verminderd.
+      Veel mensen maken tijdens hun leven gebeurtenissen mee die veel impact hebben en tijd kosten om ze te verwerken. Soms lukt het om deze gebeurtenis zelf een plekje te geven. Soms blijf je last houden van deze gebeurtenis en heeft het bijvoorbeeld invloed op je dagelijks leven in de vorm van stress, slecht slapen, schaamte, vermijding, angst-paniek klachten of onverklaarbare lichamelijke klachten. Door het toepassen van EMDR kunnen deze klachten weg gaan of verminderen.
 
-      Veel mensen maken tijdens hun leven gebeurtenissen mee die veel impact hebben en tijd kosten om ze te verwerken. Soms lukt het om deze gebeurtenis zelf een plekje te geven. Soms blijf je last houden van deze gebeurtenis en heeft het bijvoorbeeld invloed op je dagelijks leven in de vorm van stress, slecht slapen, schaamte, angst-paniek klachten of onverklaarbare lichamelijke klachten. Door het toepassen van EMDR kunnen deze klachten weg gaan of verminderen.
+      EMDR is een effectieve therapie voor traumaverwerkingen en wordt ingezet wanneer iemand last blijft houden van de gevolgen van een schokkende of traumatische gebeurtenis, zoals een ongeluk, geweld of misbruik. De therapie is bedoeld om de emotionele lading en de levendigheid van traumatische herinneringen te verminderen en is geschikt voor zowel volwassenen als kinderen. 
+
+      De afkorting EMDR staat voor Eye Movement Desensitization and Reprocessing. 
 
       * EMDR flash forward
 
-      EMDR flashforward is een specifieke EMDR-techniek die zich richt op angsten in de toekomst ipv. herinneringen uit het verleden. Deze techniek wordt toegepast wanneer iemand last heeft van angsten en het niet duidelijk is welke gebeurtenis of ervaring onderliggend is. 
+      EMDR flashforward is een specifieke EMDR-techniek die zich richt op angsten en scenario's die in de toekomst liggen. Deze techniek wordt ingezet bij mensen die last hebben van een fobie/angst en er geen duidelijke samenhang is met een vroegere herinnering of ervaring. 
     color: default
     _template: content
 ---
