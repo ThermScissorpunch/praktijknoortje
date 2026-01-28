@@ -13,7 +13,7 @@ blocks:
 
       <!---->
 
-      * Stoppen met roken  (kennismaking - 2 a 3 sessies hypnose)       320 euro
+      * Stoppen met roken  (kennismaking - 2 a 3 sessies hypnose)       300 euro
 
       Kennismakingsgesprek en advies   (+/- 30 min.)                          35 euro
     color: default
