@@ -30,16 +30,16 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
       >
         <div className="row-start-2 md:row-start-1 md:col-span-5 text-center md:text-left">
           {data.tagline && (
-            <h2
+            <p
               data-tina-field={tinaField(data, "tagline")}
               className="relative inline-block px-3 py-1 mb-8 text-md font-bold tracking-wide title-font z-20"
             >
               {data.tagline}
               <span className="absolute w-full h-full left-0 top-0 rounded-full -z-1 bg-current opacity-7"></span>
-            </h2>
+            </p>
           )}
           {data.headline && (
-            <h3
+            <h1
               data-tina-field={tinaField(data, "headline")}
               className={`w-full relative mb-10 text-5xl font-extrabold tracking-normal leading-tight title-font`}
             >
@@ -52,7 +52,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
               >
                 {data.headline}
               </span>
-            </h3>
+            </h1>
           )}
           <div className="flex flex-col md:flex-row gap-6">
             <div className="flex flex-col md:w-3/5">

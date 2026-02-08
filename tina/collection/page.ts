@@ -30,6 +30,23 @@ const Page: Collection = {
       required: true,
     },
     {
+      type: "string",
+      label: "SEO Title",
+      name: "seoTitle",
+      description:
+        "Override the page title for search engines. Leave empty to use the page title.",
+    },
+    {
+      type: "string",
+      label: "SEO Description",
+      name: "seoDescription",
+      description:
+        "Meta description for search engines. Keep under 160 characters.",
+      ui: {
+        component: "textarea",
+      },
+    },
+    {
       type: "object",
       list: true,
       name: "blocks",

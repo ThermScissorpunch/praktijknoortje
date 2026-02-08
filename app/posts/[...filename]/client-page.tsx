@@ -47,7 +47,7 @@ export default function PostClientPage(props: ClientPostProps) {
   return (
     <Section className="flex-1">
       <Container width="small" className={`flex-1 pb-2`} size="large">
-        <h2
+        <h1
           data-tina-field={tinaField(post, "title")}
           className={`w-full relative	mb-8 text-6xl font-extrabold tracking-normal text-center title-font`}
         >
@@ -58,7 +58,7 @@ export default function PostClientPage(props: ClientPostProps) {
           >
             {post.title}
           </span>
-        </h2>
+        </h1>
         <div
           data-tina-field={tinaField(post, "author")}
           className="flex items-center justify-center mb-16"

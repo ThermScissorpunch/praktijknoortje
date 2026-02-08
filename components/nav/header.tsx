@@ -18,14 +18,14 @@ export default function Header() {
     >
       <Container size="custom" className="py-0 relative z-10 max-w-8xl">
         <div className="flex items-center justify-between gap-6">
-          <h4 className="select-none text-lg font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+          <div className="select-none text-lg font-bold tracking-tight my-4 transition duration-150 ease-out transform">
             <Link
               href="/"
               className="flex gap-1 items-center whitespace-nowrap tracking-[.002em]"
             >
-              <Image alt={''} src="https://assets.tina.io/4c56b08b-ff46-4470-b58a-44777f9310dd/logo.png" width={130} height={30} />
+              <Image alt="Praktijk Noortje - Hypnotherapie & EMDR" src="https://assets.tina.io/4c56b08b-ff46-4470-b58a-44777f9310dd/logo.png" width={130} height={30} />
             </Link>
-          </h4>
+          </div>
           <NavItems navs={header.nav} />
         </div>
         <div
