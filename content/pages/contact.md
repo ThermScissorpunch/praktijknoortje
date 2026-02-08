@@ -14,8 +14,6 @@ blocks:
 
       tel: 0611353776
 
-      [![](</uploads/Screenshot at Sep 19 17-56-05.png>)](https://nl.trustpilot.com/evaluate/praktijknoortje.nl)
-
       ![](</uploads/Noortje (20 van 1).jpg>) ![](</uploads/Noortje (19 van 1).jpg>)
     color: default
     _template: content
