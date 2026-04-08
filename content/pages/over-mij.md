@@ -4,7 +4,7 @@ blocks:
   - body: |
       ### Over mij
 
-      Mijn naam is Noortje Aldenhuijsen en woon samen met mijn vriend en onze 2 dochters in Boekel. Ik heb jarenlange ervaring met werken in de ambulante psychiatrie (specialistische GGZ) en het volgen van diverse opleidingen. Door de vele opleidingen, ervaringen op persoonlijk vlak en op mijn werk ben ik steeds meer gaan geloven in de kracht van het onderbewustzijn.
+      Mijn naam is Noortje Aldenhuijsen, ik woon samen met mijn vriend en onze 2 dochters in Boekel. Ik heb jarenlange ervaring met werken in de ambulante psychiatrie (specialistische GGZ) en het volgen van diverse opleidingen. Door de vele opleidingen, ervaringen op persoonlijk vlak en op mijn werk ben ik steeds meer gaan geloven in de kracht van het onderbewustzijn.
 
       Naast mijn opleidingen tot Sociaal Psychiatrisch Verpleegkundige ben ik ook opgeleid tot EMDR-therapeut en hypnotherapeut, twee krachtige methoden die worden ingezet om diepgewortelde trauma's, blokkades of hardnekkige patronen aan te pakken. Deze technieken pas ik toe in mijn eigen \*Praktijk Noortje, maar ook in mijn werk in de ambulante psychiatrie, waar ik werkzaam ben als Sociaal Psychiatrisch Verpleegkundige. Binnen mijn werk in de ambulante psychiatrie ben ik werkzaam in een multidisciplinair behandelteam waar gewerkt wordt op basis van diagnostiek en behandelplan. Binnen praktijk Noortje werk ik alleen en staat diagnostiek niet centraal.
 
