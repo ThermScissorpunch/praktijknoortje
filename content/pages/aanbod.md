@@ -24,7 +24,11 @@ blocks:
 
       **Hypnotherapie**
 
-      Bij hypnotherapie maak je contact met je onderbewuste. Je komt in een vorm van trance. Trance is een staat van bewustzijn waarin ons bewustzijn verschuift van alledaagse realiteit naar een meer gefocuste / innerlijke staat. Het is een natuurlijke staat van hyperfocus die we kennen in de vorm van dagdromen of intens opgaan in een film of boek. Ons onderbewustzijn is een verzameling van herinneringen, overtuigingen, gewoontes en emoties die een grote rol spelen bij hoe we ons voelen, ons voordoen, hoe we reageren op situaties en hoe we pijn en stress ervaren. Dit alles ligt diep opgeslagen in ons brein en kunnen we met ons bewust verstand niet bij, althans niets aan veranderen ...
+      Bij hypnotherapie maak je contact met je onderbewuste. Je komt in een vorm van trance. Trance is een staat van bewustzijn waarin ons bewustzijn verschuift van alledaagse realiteit naar een meer gefocuste / innerlijke staat. Het is een natuurlijke staat van hyperfocus die we kennen in de vorm van dagdromen of intens opgaan in een film of boek. Ons onderbewustzijn is een verzameling van herinneringen, overtuigingen, gewoontes en emoties die een grote rol spelen bij hoe we ons voelen, ons voordoen, hoe we reageren op situaties en hoe we pijn en stress ervaren. Dit alles ligt diep opgeslagen in ons brein en kunnen we met ons bewust verstand niet bij, althans niets aan veranderen.
+
+      * Regressie 
+
+      Regressietherapie is een therapievorm die ervan uitgaat dat ieder probleem een oorzaak heeft. Psychische, lichamelijke en/of emotionele klachten komen vaak voort uit traumatische ervaringen. Vaak kunnen we bewust terug naar deze traumatische ervaring en is de klacht goed te behandelen met bijvoorbeeld emdr. In sommige gevallen gaat het om traumatische ervaringen in de vroege kindertijd (tussen 0 en 7 jaar) en is het niet mogelijk om bewust terug te gaan naar deze traumatische ervaring. In hypnotise is het mogelijk om naar het verleden terug te gaan, ervaringen uit de vroege kindertijd te herbeleven en verwerken. Het verwerken van vroeg kinderlijke traumatische ervaringen helpt bij het verminderen van, vaak onverklaarbare, klachten in het dagelijks leven.
 
       * Soulkey
 
