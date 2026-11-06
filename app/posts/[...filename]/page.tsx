@@ -1,5 +1,6 @@
 import React from "react";
 import { Metadata } from "next";
+import { queryOr404 } from "../../../lib/tina-not-found";
 import client from "../../../tina/__generated__/client";
 import Layout from "../../../components/layout/layout";
 import PostClientPage from "./client-page";
@@ -10,9 +11,11 @@ export async function generateMetadata({
 }: {
   params: { filename: string[] };
 }): Promise<Metadata> {
-  const data = await client.queries.post({
-    relativePath: `${params.filename.join("/")}.mdx`,
-  });
+  const data = await queryOr404(() =>
+    client.queries.post({
+      relativePath: `${params.filename.join("/")}.mdx`,
+    })
+  );
   const post = data.data.post;
 
   return buildMetadata({
@@ -30,9 +33,11 @@ export default async function PostPage({
 }: {
   params: { filename: string[] };
 }) {
-  const data = await client.queries.post({
-    relativePath: `${params.filename.join("/")}.mdx`,
-  });
+  const data = await queryOr404(() =>
+    client.queries.post({
+      relativePath: `${params.filename.join("/")}.mdx`,
+    })
+  );
   const post = data.data.post;
   const canonicalUrl = `${SITE_URL}/posts/${params.filename.join("/")}`;
 

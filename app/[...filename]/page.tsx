@@ -1,5 +1,6 @@
 import React from "react";
 import { Metadata } from "next";
+import { queryOr404 } from "../../lib/tina-not-found";
 import client from "../../tina/__generated__/client";
 import ClientPage from "./client-page";
 import Layout from "../../components/layout/layout";
@@ -10,9 +11,11 @@ export async function generateMetadata({
 }: {
   params: { filename: string[] };
 }): Promise<Metadata> {
-  const data = await client.queries.page({
-    relativePath: `${params.filename}.md`,
-  });
+  const data = await queryOr404(() =>
+    client.queries.page({
+      relativePath: `${params.filename}.md`,
+    })
+  );
   const page = data.data.page;
   const isHome = params.filename[0] === "home";
 
@@ -28,9 +31,11 @@ export default async function Page({
 }: {
   params: { filename: string[] };
 }) {
-  const data = await client.queries.page({
-    relativePath: `${params.filename}.md`,
-  });
+  const data = await queryOr404(() =>
+    client.queries.page({
+      relativePath: `${params.filename}.md`,
+    })
+  );
   const page = data.data.page;
   const isHome = params.filename[0] === "home";
 
