@@ -3,8 +3,7 @@ import { Metadata } from "next";
 import client from "../../tina/__generated__/client";
 import ClientPage from "./client-page";
 import Layout from "../../components/layout/layout";
-
-const SITE_URL = "https://www.praktijknoortje.nl";
+import { SITE_URL, TREATMENT_PAGES, buildMetadata } from "../../lib/seo";
 
 export async function generateMetadata({
   params,
@@ -15,24 +14,13 @@ export async function generateMetadata({
     relativePath: `${params.filename}.md`,
   });
   const page = data.data.page;
-  const seoTitle = page.seoTitle || page.title;
-  const seoDescription = page.seoDescription || undefined;
   const isHome = params.filename[0] === "home";
-  const canonicalPath = isHome ? "" : `/${params.filename.join("/")}`;
 
-  return {
-    title: isHome ? undefined : seoTitle,
-    description: seoDescription,
-    alternates: {
-      canonical: `${SITE_URL}${canonicalPath}`,
-    },
-    openGraph: {
-      title: seoTitle,
-      description: seoDescription,
-      url: `${SITE_URL}${canonicalPath}`,
-      type: "website",
-    },
-  };
+  return buildMetadata({
+    title: isHome ? undefined : page.seoTitle || page.title,
+    description: page.seoDescription || undefined,
+    path: isHome ? "" : `/${params.filename.join("/")}`,
+  });
 }
 
 export default async function Page({
@@ -46,27 +34,25 @@ export default async function Page({
   const page = data.data.page;
   const isHome = params.filename[0] === "home";
 
+  const crumbs = [{ name: "Home", item: SITE_URL }];
+  if (TREATMENT_PAGES.includes(params.filename[0])) {
+    crumbs.push({ name: "Aanbod", item: `${SITE_URL}/aanbod` });
+  }
+  if (!isHome) {
+    crumbs.push({
+      name: page.title,
+      item: `${SITE_URL}/${params.filename.join("/")}`,
+    });
+  }
+
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: SITE_URL,
-      },
-      ...(!isHome
-        ? [
-            {
-              "@type": "ListItem",
-              position: 2,
-              name: page.title,
-              item: `${SITE_URL}/${params.filename.join("/")}`,
-            },
-          ]
-        : []),
-    ],
+    itemListElement: crumbs.map((crumb, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      ...crumb,
+    })),
   };
 
   return (

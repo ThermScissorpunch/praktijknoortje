@@ -1,53 +1,44 @@
 ---
 title: Aanbod
+seoTitle: Hypnotherapie en EMDR in Boekel - Aanbod
+seoDescription: >-
+  EMDR, EMDR flash forward, hypnotherapie, regressie, Soulkey, Hypnotic Heaven
+  en stoppen met roken met hypnose. Bekijk het aanbod van Praktijk Noortje in Boekel.
 blocks:
   - body: |
-      **EMDR**
+      # Hypnotherapie en EMDR in Boekel
 
-      Veel mensen maken tijdens hun leven gebeurtenissen mee die veel impact hebben en tijd kosten om ze te verwerken. Soms lukt het om deze gebeurtenis zelf een plekje te geven. Soms blijf je last houden van deze gebeurtenis en heeft het bijvoorbeeld invloed op je dagelijks leven in de vorm van stress, slecht slapen, schaamte, vermijding, angst-paniek klachten of onverklaarbare lichamelijke klachten. Door het toepassen van EMDR kunnen deze klachten weg gaan of verminderen.
+      Binnen Praktijk Noortje werk ik met EMDR en verschillende vormen van hypnotherapie. Tijdens een [kennismakingsgesprek](/tarieven) kijken we samen welke behandeling bij jou past.
 
-      EMDR is een effectieve therapie voor traumaverwerkingen en wordt ingezet wanneer iemand last blijft houden van de gevolgen van een schokkende of traumatische gebeurtenis, zoals een ongeluk, geweld of misbruik. De therapie is bedoeld om de emotionele lading en de levendigheid van traumatische herinneringen te verminderen en is geschikt voor zowel volwassenen als kinderen.
+      ## [EMDR](/emdr)
 
-      De afkorting EMDR staat voor Eye Movement Desensitization and Reprocessing.
+      EMDR is een effectieve therapie voor traumaverwerking. Het vermindert de emotionele lading van nare herinneringen, bijvoorbeeld na een ongeluk, geweld of misbruik. Met EMDR flash forward richten we ons op angsten voor de toekomst, zoals een fobie. Geschikt voor volwassenen en kinderen.
 
-      * EDMR (regulier)
+      [Lees meer over EMDR](/emdr)
 
-      Tijdens de therapie wordt de nare herinnering uit het verleden opgeroepen. Vervolgens worden afleidende prikkels (oogbewegingen, geluiden of trillingen) toegepast waardoor het werkgeheugen belast wordt. De herinnering wordt op die manier losgekoppeld van de intense emotionele lading en opnieuw verwerkt.
+      ![Vrouw met de armen omhoog in het zonlicht, een gevoel van vrijheid](/uploads/IMG_1581.jpg)
 
-      * EMDR flash forward
+      ## [Hypnotherapie](/hypnotherapie)
 
-      EMDR flashforward is een specifieke EMDR-techniek die zich richt op angsten en scenario's die in de toekomst liggen. Deze techniek wordt ingezet bij mensen die last hebben van een fobie/angst en er geen duidelijke samenhang is met een vroegere herinnering of ervaring.
+      Bij hypnotherapie maak je in trance contact met je onderbewuste, waar herinneringen, overtuigingen en gewoontes liggen opgeslagen. Met regressietherapie verwerk je ervaringen uit je vroege kindertijd. Soulkey, ook wel zielenreis genoemd, gaat dieper in op vragen als: wie ben ik en waarom lukt het me niet om bepaald gedrag te veranderen?
 
-      Tijdens de therapie wordt het angstige toekomstbeeld opgeroepen. Vervolgens worden afleidende prikkels toegepast waardoor het werkgeheugen belast wordt. Op die manier wordt de intense emotie losgekoppeld van het toekomstbeeld.
+      [Lees meer over hypnotherapie, regressie en Soulkey](/hypnotherapie)
 
-      ![](/uploads/IMG_1581.jpg)\*\*\*\*
+      ## [Hypnotic Heaven](/hypnotic-heaven)
 
-      **Hypnotherapie**
+      Hypnotherapie als natuurlijke ondersteuning bij chronische pijn, langdurige ziektes en tijdens oncologische behandelingen.
 
-      Bij hypnotherapie maak je contact met je onderbewuste. Je komt in een vorm van trance. Trance is een staat van bewustzijn waarin ons bewustzijn verschuift van alledaagse realiteit naar een meer gefocuste / innerlijke staat. Het is een natuurlijke staat van hyperfocus die we kennen in de vorm van dagdromen of intens opgaan in een film of boek. Ons onderbewustzijn is een verzameling van herinneringen, overtuigingen, gewoontes en emoties die een grote rol spelen bij hoe we ons voelen, ons voordoen, hoe we reageren op situaties en hoe we pijn en stress ervaren. Dit alles ligt diep opgeslagen in ons brein en kunnen we met ons bewust verstand niet bij, althans niets aan veranderen.
+      [Lees meer over Hypnotic Heaven](/hypnotic-heaven)
 
-      * Regressie 
+      ## [Stoppen met roken](/stoppen-met-roken)
 
-      Regressietherapie is een therapievorm die ervan uitgaat dat ieder probleem een oorzaak heeft. Psychische, lichamelijke en/of emotionele klachten komen vaak voort uit traumatische ervaringen. Vaak kunnen we bewust terug naar deze traumatische ervaring en is de klacht goed te behandelen met bijvoorbeeld emdr. In sommige gevallen gaat het om traumatische ervaringen in de vroege kindertijd (tussen 0 en 7 jaar) en is het niet mogelijk om bewust terug te gaan naar deze traumatische ervaring. In hypnotise is het mogelijk om naar het verleden terug te gaan, ervaringen uit de vroege kindertijd te herbeleven en verwerken. Het verwerken van vroeg kinderlijke traumatische ervaringen helpt bij het verminderen van, vaak onverklaarbare, klachten in het dagelijks leven.
+      Onder hypnose vervang je het ingesleten patroon van roken in je onderbewuste door een ander, gezonder patroon.
 
-      * Soulkey
+      [Lees meer over stoppen met roken met hypnose](/stoppen-met-roken)
 
-      Soulkey, ook wel zielenreis genoemd en is een moderne doorontwikkelde vorm van hypnotherapie gericht op regressie en reïncarnatie. Bij deze vorm van therapie kom je dichter bij je eigen ziel en bewustzijn. Vragen als; Wie ben ik? Waarom ben ik hier op aarde? Wat is het doel van het leven? Waarom lukt het me niet om bepaald gedrag te veranderen? De antwoorden op deze vragen liggen in jezelf maar het lukt niet om deze in bewustzijn te beantwoorden. Ons onderbewuste, onze ziel, heeft de antwoorden op deze vragen. Je ontdekt waar, wanneer en waardoor een probleem is ontstaan (dat kan zijn in een vorig leven *reïncarnatie* of een belangrijk moment in dit leven *regressie*), hoe dit doorwerkt in je huidige leven en wat je kan doen om het te veranderen.
+      ## Kennismaken
 
-      Deze vorm van hypnotherapie richt zich op je ware essentie, het loslaten van ballast uit het verleden en versterken van je verbinding met wie je diep van binnen bent.
-
-      * hypnotic heaven
-
-      Hypnotic heaven is een vorm van hypnotherapie als krachtige, natuurlijke ondersteuning bij chronische pijn, langdurige ziektes en tijdens oncologische behandelingen. De kern van deze methode ligt in het benutten van de ongekende kracht van het brein.
-
-      Het brein speelt een centrale rol in hoe we pijn, stress en herstel ervaren. Via hypnotherapie wordt een diepe staat van ontspanning bereikt, waarin het onderbewustzijn toegankelijker wordt. In deze toestand kan de geest invloed uitoefenen op lichamelijke processen zoals pijnbeleving, immuunreacties en stressregulatie. Bij chronische pijn helpt hypnose het brein om pijnsignalen anders te interpreteren, waardoor de intensiteit afneemt. Bij chronische ziekten biedt het ondersteuning in het omgaan met symptomen, vermoeidheid en emotionele belasting. In de oncologie wordt hypnose ingezet om angst te verminderen, bijwerkingen te verzachten en het zelfherstellend vermogen van het lichaam te versterken.
-
-      Deze vorm van hypnotherapie helpt je om regie te herwinnen, vertrouwen op te bouwen en innerlijke kracht te activeren - allemaal via de helende invloed van je eigen geest.
-
-      * Stoppen met roken
-
-      De kern van hypnotherapie richt zich erop om hinderlijke patronen en automatismen in je onderbewustzijn te vervangen door stimulerende en productieve patronen. Grijp je steeds maar een sigaret wanneer je gespannen bent of wanneer je je wil concentreren? Dat is een gevolg van een ingesleten patroon in je onderbewustzijn. Onder hypnose is het mogelijk om deze hardnekkige denkwijze uit de onderbuste geest te halen en te vervangen door een ander, gezonder patroon.
+      Benieuwd welke behandeling bij jou past? Bekijk de [tarieven](/tarieven) of neem [contact](/contact) op voor een kennismakingsgesprek. Meer over mijn achtergrond lees je op [over mij](/over-mij).
     color: default
     _template: content
 ---
-

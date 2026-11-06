@@ -1,5 +1,8 @@
 ---
 title: Welkom bij Praktijk Noortje
+seoDescription: >-
+  Hypnotherapie en EMDR in Boekel. Hulp bij trauma, angst, blokkades, chronische
+  pijn en stoppen met roken. Plan een kennismakingsgesprek bij Praktijk Noortje.
 blocks:
   - tagline: ''
     headline: Welkom bij Praktijk Noortje
@@ -18,7 +21,7 @@ blocks:
         link: /aanbod
     image:
       src: /uploads/Noortje (8 van 1).jpg
-      alt: Photo of palm trees at sunset by Adam Birkett - unsplash.com/photos/75EFpyXu3Wg
+      alt: Noortje Aldenhuijsen, hypnotherapeut en EMDR-therapeut bij Praktijk Noortje in Boekel
     color: default
     _template: hero
 ---

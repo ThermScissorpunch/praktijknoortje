@@ -1,7 +1,6 @@
 import { MetadataRoute } from "next";
 import client from "../tina/__generated__/client";
-
-const SITE_URL = "https://www.praktijknoortje.nl";
+import { SITE_URL } from "../lib/seo";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const pages = await client.queries.pageConnection();
@@ -30,11 +29,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     ...pageEntries,
-    {
-      url: `${SITE_URL}/posts`,
-      changeFrequency: "weekly",
-      priority: 0.7,
-    },
+    // The blog index is noindex while empty, so only list it once posts exist.
+    ...(postEntries.length > 0
+      ? [
+          {
+            url: `${SITE_URL}/posts`,
+            changeFrequency: "weekly" as const,
+            priority: 0.7,
+          },
+        ]
+      : []),
     ...postEntries,
   ];
 }

@@ -3,8 +3,7 @@ import { Metadata } from "next";
 import client from "../../../tina/__generated__/client";
 import Layout from "../../../components/layout/layout";
 import PostClientPage from "./client-page";
-
-const SITE_URL = "https://www.praktijknoortje.nl";
+import { SITE_NAME, SITE_URL, buildMetadata, richTextToPlain } from "../../../lib/seo";
 
 export async function generateMetadata({
   params,
@@ -15,21 +14,15 @@ export async function generateMetadata({
     relativePath: `${params.filename.join("/")}.mdx`,
   });
   const post = data.data.post;
-  const canonicalUrl = `${SITE_URL}/posts/${params.filename.join("/")}`;
 
-  return {
+  return buildMetadata({
     title: post.title,
-    alternates: {
-      canonical: canonicalUrl,
-    },
-    openGraph: {
-      title: post.title,
-      url: canonicalUrl,
-      type: "article",
-      ...(post.heroImg && { images: [{ url: post.heroImg }] }),
-      ...(post.date && { publishedTime: post.date }),
-    },
-  };
+    description: richTextToPlain(post.excerpt, 160) || undefined,
+    path: `/posts/${params.filename.join("/")}`,
+    type: "article",
+    image: post.heroImg || undefined,
+    publishedTime: post.date || undefined,
+  });
 }
 
 export default async function PostPage({
@@ -58,8 +51,8 @@ export default async function PostPage({
     }),
     publisher: {
       "@type": "Organization",
-      name: "Praktijk Noortje",
-      url: SITE_URL,
+      "@id": `${SITE_URL}/#business`,
+      name: SITE_NAME,
     },
   };
 

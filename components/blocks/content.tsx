@@ -8,6 +8,7 @@ import { tinaField } from "tinacms/dist/react";
 import { Container } from "../layout/container";
 import { Section } from "../layout/section";
 import MermaidElement from "../mermaid-renderer";
+import { MarkdownImage } from "../markdown-image";
 
 export const Content = ({ data }: { data: PageBlocksContent }) => {
   return (
@@ -25,7 +26,8 @@ export const Content = ({ data }: { data: PageBlocksContent }) => {
           components={{
             mermaid({ value }) {
               return <MermaidElement value={value} />;
-            }
+            },
+            img: (props) => <MarkdownImage url={props.url} alt={props.alt} />,
           }}
         />
       </Container>

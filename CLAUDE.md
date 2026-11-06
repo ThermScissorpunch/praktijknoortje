@@ -66,7 +66,7 @@ GitHub Actions on PR: builds with Node 18 + pnpm v9. Dependabot monitors TinaCMS
 
 ## SEO
 
-Site URL: `https://www.praktijknoortje.nl`. The `SITE_URL` constant is defined in `app/layout.tsx`, `app/[...filename]/page.tsx`, `app/posts/[...filename]/page.tsx`, and `app/sitemap.ts`.
+Site URL: `https://www.praktijknoortje.nl`. `lib/seo.ts` is the single source for `SITE_URL`, business NAP details (`BUSINESS`, used by the JSON-LD and the footer), default title/description/OG image, and `buildMetadata()`. Always build page metadata through `buildMetadata()`: Next.js merges `openGraph`/`twitter` shallowly, and an explicit `title: undefined` drops the `<title>` tag entirely.
 
 ### Metadata
 
@@ -79,7 +79,7 @@ Site URL: `https://www.praktijknoortje.nl`. The `SITE_URL` constant is defined i
 
 ### Structured Data (JSON-LD)
 
-- `LocalBusiness` schema in root layout (`app/layout.tsx`) — practice name, Boekel address, logo
+- `@graph` in root layout (`app/layout.tsx`): `LocalBusiness` (full address, phone, email, prices via `makesOffer`), `Person` (Noortje, founder), `WebSite`
 - `BreadcrumbList` schema on each page (`app/[...filename]/page.tsx`)
 - `BlogPosting` schema on post pages (`app/posts/[...filename]/page.tsx`) — title, author, date, image
 
@@ -89,7 +89,7 @@ The page collection (`tina/collection/page.ts`) has `seoTitle` and `seoDescripti
 
 ### Sitemap & Robots
 
-- Dynamic sitemap at `app/sitemap.ts` — queries TinaCMS for all pages and posts
+- Dynamic sitemap at `app/sitemap.ts` — queries TinaCMS for all pages and posts; `/posts` is only listed (and only indexable) once at least one post exists
 - `public/robots.txt` — allows crawling, disallows `/admin`, references sitemap
 
 ### Heading Hierarchy
@@ -98,7 +98,17 @@ The page collection (`tina/collection/page.ts`) has `seoTitle` and `seoDescripti
 - Hero tagline uses `<p>` (not a heading)
 - Header logo (`components/nav/header.tsx`) uses `<div>` with descriptive alt text (not a heading)
 - Post titles (`app/posts/[...filename]/client-page.tsx`) use `<h1>`
+- Content pages get their `<h1>` from a leading `# ` heading in the markdown body
 
-### Remaining SEO Opportunity
+### Content conventions
 
-Content pages (aanbod, over-mij, tarieven) would benefit from contextual internal links between related pages to improve crawlability and user flow. This is a content-level change done through TinaCMS.
+Each content page starts its body with a single `# ` heading (rendered as the page's `<h1>`); sections use `##`/`###`. Images need descriptive Dutch alt text. Pages cross-link to aanbod / tarieven / contact.
+
+Each treatment has its own page (`emdr`, `hypnotherapie`, `hypnotic-heaven`, `stoppen-met-roken`), so each can rank for its own search; `aanbod` is the overview hub linking to them. A new treatment page must also be added to `TREATMENT_PAGES` in `lib/seo.ts` (breadcrumb Home › Aanbod › X) and to `makesOffer` in `app/layout.tsx`.
+
+### Performance
+
+- `components/blocks/index.tsx` code-splits the Features and Testimonial blocks with `next/dynamic`: Features pulls in the full BoxIcons set (~1 MB). Don't import them statically.
+- `components/mermaid-renderer.tsx` imports `mermaid` lazily inside the effect. Keep it that way.
+- Rich-text images render through `components/markdown-image.tsx` (`next/image`), because uploads are ~1.5 MB originals.
+- `public/og-image.jpg` is a 1200x630 crop used as the default social preview image.
