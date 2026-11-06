@@ -5,8 +5,14 @@ import { Inter as FontSans, Lato, Nunito } from "next/font/google";
 import { cn } from "../lib/utils";
 import { Metadata } from "next";
 import client from "../tina/__generated__/client";
-
-const SITE_URL = "https://www.praktijknoortje.nl";
+import {
+  BUSINESS,
+  DEFAULT_DESCRIPTION,
+  DEFAULT_OG_IMAGE,
+  DEFAULT_TITLE,
+  SITE_NAME,
+  SITE_URL,
+} from "../lib/seo";
 
 const fontSans = FontSans({
   subsets: ["latin"],
@@ -27,25 +33,24 @@ const lato = Lato({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Praktijk Noortje - Hypnotherapie & EMDR in Boekel",
-    template: "%s | Praktijk Noortje",
+    default: DEFAULT_TITLE,
+    template: `%s | ${SITE_NAME}`,
   },
-  description:
-    "Ben je op zoek naar meer ontspanning, emotionele balans, wil je trauma's of blokkades aanpakken of gedragspatronen doorbreken? Praktijk Noortje biedt hypnotherapie en EMDR in Boekel.",
+  description: DEFAULT_DESCRIPTION,
   openGraph: {
     type: "website",
     locale: "nl_NL",
-    siteName: "Praktijk Noortje",
-    title: "Praktijk Noortje - Hypnotherapie & EMDR in Boekel",
-    description:
-      "Ben je op zoek naar meer ontspanning, emotionele balans, wil je trauma's of blokkades aanpakken of gedragspatronen doorbreken?",
+    siteName: SITE_NAME,
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESCRIPTION,
     url: SITE_URL,
+    images: [DEFAULT_OG_IMAGE],
   },
   twitter: {
-    card: "summary",
-    title: "Praktijk Noortje - Hypnotherapie & EMDR in Boekel",
-    description:
-      "Ben je op zoek naar meer ontspanning, emotionele balans, wil je trauma's of blokkades aanpakken of gedragspatronen doorbreken?",
+    card: "summary_large_image",
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESCRIPTION,
+    images: [DEFAULT_OG_IMAGE.url],
   },
   alternates: {
     canonical: SITE_URL,
@@ -79,21 +84,91 @@ export default async function RootLayout({
   };
   const fontVariable = selectFont(global.theme.font);
 
+  const offer = (
+    name: string,
+    price: number,
+    description: string,
+    path = "/tarieven"
+  ) => ({
+    "@type": "Offer",
+    price,
+    priceCurrency: "EUR",
+    url: `${SITE_URL}/tarieven`,
+    itemOffered: {
+      "@type": "Service",
+      name,
+      description,
+      url: `${SITE_URL}${path}`,
+    },
+  });
+
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "@id": `${SITE_URL}/#business`,
-    name: "Praktijk Noortje",
-    description:
-      "Hypnotherapie en EMDR praktijk in Boekel. Hulp bij ontspanning, emotionele balans, trauma's, blokkades en gedragspatronen.",
-    url: SITE_URL,
-    logo: "https://assets.tina.io/4c56b08b-ff46-4470-b58a-44777f9310dd/logo.png",
-    address: {
-      "@type": "PostalAddress",
-      addressLocality: "Boekel",
-      addressCountry: "NL",
-    },
-    additionalType: "https://schema.org/HealthAndBeautyBusiness",
+    "@graph": [
+      {
+        "@type": "LocalBusiness",
+        "@id": `${SITE_URL}/#business`,
+        additionalType: "https://schema.org/HealthAndBeautyBusiness",
+        name: SITE_NAME,
+        description:
+          "Praktijk voor hypnotherapie en EMDR in Boekel. Hulp bij trauma, angst, blokkades, chronische pijn, gedragspatronen en stoppen met roken.",
+        url: SITE_URL,
+        logo: `${SITE_URL}/uploads/logo.png`,
+        image: `${SITE_URL}${DEFAULT_OG_IMAGE.url}`,
+        telephone: BUSINESS.phone,
+        email: BUSINESS.email,
+        priceRange: "€50 - €350",
+        hasMap: BUSINESS.mapsUrl,
+        address: {
+          "@type": "PostalAddress",
+          streetAddress: BUSINESS.street,
+          postalCode: BUSINESS.postalCode,
+          addressLocality: BUSINESS.city,
+          addressRegion: BUSINESS.region,
+          addressCountry: BUSINESS.country,
+        },
+        areaServed: [
+          "Boekel",
+          "Uden",
+          "Gemert",
+          "Veghel",
+          "Erp",
+          "Volkel",
+          "Noord-Brabant",
+        ],
+        founder: { "@id": `${SITE_URL}/#noortje` },
+        makesOffer: [
+          offer("Kennismakingsgesprek en advies", 50, "Kennismakingsgesprek van ongeveer 45 minuten"),
+          offer("EMDR", 80, "EMDR-sessie van ongeveer 60 minuten, ook EMDR flash forward", "/emdr"),
+          offer("Hypnotherapie", 150, "Hypnotherapie-sessie van ongeveer 120 minuten, waaronder regressie en Soulkey", "/hypnotherapie"),
+          offer("Hypnotic Heaven", 80, "Hypnotherapie bij chronische pijn, langdurige ziekte en oncologie, ongeveer 60 minuten", "/hypnotic-heaven"),
+          offer("Stoppen met roken", 350, "Kennismaking plus 2 of 3 sessies hypnose", "/stoppen-met-roken"),
+        ],
+      },
+      {
+        "@type": "Person",
+        "@id": `${SITE_URL}/#noortje`,
+        name: BUSINESS.owner,
+        jobTitle: "Hypnotherapeut, EMDR-therapeut en Sociaal Psychiatrisch Verpleegkundige",
+        url: `${SITE_URL}/over-mij`,
+        worksFor: { "@id": `${SITE_URL}/#business` },
+        knowsAbout: [
+          "EMDR",
+          "Hypnotherapie",
+          "Regressietherapie",
+          "Traumaverwerking",
+          "Stoppen met roken",
+        ],
+      },
+      {
+        "@type": "WebSite",
+        "@id": `${SITE_URL}/#website`,
+        url: SITE_URL,
+        name: SITE_NAME,
+        inLanguage: "nl-NL",
+        publisher: { "@id": `${SITE_URL}/#business` },
+      },
+    ],
   };
 
   return (

@@ -9,6 +9,7 @@ import { Section } from "../layout/section";
 import { Container } from "../layout/container";
 import { Actions } from "./actions";
 import MermaidElement from "../mermaid-renderer";
+import { MarkdownImage } from "../markdown-image";
 
 export const Hero = ({ data }: { data: PageBlocksHero }) => {
   const headlineColorClasses = {
@@ -70,7 +71,8 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
                     components={{
                       mermaid({ value }) {
                         return <MermaidElement value={value} />;
-                      }
+                      },
+                      img: (props) => <MarkdownImage url={props.url} alt={props.alt} />,
                     }}
                   />
                 </div>
@@ -104,7 +106,8 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
                 components={{
                   mermaid({ value }) {
                     return <MermaidElement value={value} />;
-                  }
+                  },
+                  img: (props) => <MarkdownImage url={props.url} alt={props.alt} />,
                 }}
               />
             </div>

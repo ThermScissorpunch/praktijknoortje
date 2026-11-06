@@ -2,8 +2,17 @@ import { tinaField } from "tinacms/dist/react";
 import { Page, PageBlocks } from "../../tina/__generated__/types";
 import { Hero } from "./hero";
 import { Content } from "./content";
-import { Features } from "./features";
-import { Testimonial } from "./testimonial";
+import dynamic from "next/dynamic";
+
+// Features pulls in the full BoxIcons set (~1 MB) via ../icon. Code-split these
+// blocks so their JavaScript only loads on pages that use them. They are still
+// server-rendered, so the HTML search engines see is unchanged.
+const Features = dynamic(() =>
+  import("./features").then((m) => m.Features)
+);
+const Testimonial = dynamic(() =>
+  import("./testimonial").then((m) => m.Testimonial)
+);
 
 export const Blocks = (props: Omit<Page, "id" | "_sys" | "_values">) => {
   return (

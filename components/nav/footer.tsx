@@ -4,11 +4,14 @@ import { cn } from "../../lib/utils";
 import { Container } from "../layout/container";
 import { FaFacebookF, FaGithub, FaTwitter } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
+import Link from "next/link";
 import { useLayout } from "../layout/layout-context";
+import { BUSINESS } from "../../lib/seo";
 
 export default function Footer() {
   const { theme, globalSettings } = useLayout();
   const footer = globalSettings?.footer;
+  const nav = globalSettings?.header?.nav ?? [];
 
   const socialIconClasses = "h-7 w-auto";
   const socialIconColorClasses = {
@@ -46,6 +49,39 @@ export default function Footer() {
   return (
     <footer className={cn(`bg-gradient-to-br`, footerColorCss)}>
       <Container className="relative" size="small">
+        <div className="grid gap-8 sm:grid-cols-2 text-sm leading-relaxed">
+          <address className="not-italic">
+            <p className="font-bold text-base mb-1">{BUSINESS.name}</p>
+            <p>Hypnotherapie &amp; EMDR in {BUSINESS.city}</p>
+            <p>
+              {BUSINESS.street}
+              <br />
+              {BUSINESS.postalCode} {BUSINESS.city}
+            </p>
+            <p className="mt-2">
+              <a className="hover:underline" href={`tel:${BUSINESS.phone}`}>
+                {BUSINESS.phoneDisplay}
+              </a>
+              <br />
+              <a className="hover:underline" href={`mailto:${BUSINESS.email}`}>
+                {BUSINESS.email}
+              </a>
+            </p>
+          </address>
+          {nav.length > 0 && (
+            <nav aria-label="Footer">
+              <ul className="space-y-1">
+                {nav.map((item) => (
+                  <li key={item.href}>
+                    <Link className="hover:underline" href={`/${item.href}`}>
+                      {item.label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )}
+        </div>
         <div className="flex justify-between items-center gap-6 flex-wrap">
 
           <div className="flex gap-4">
